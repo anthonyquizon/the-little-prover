@@ -1,0 +1,3 @@
+[submodule "j-bob"]
+	path = j-bob
+	url = https://github.com/the-little-prover/j-bob.git
